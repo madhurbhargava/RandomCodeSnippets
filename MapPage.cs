@@ -9,8 +9,8 @@ namespace XamarinFormsMapsDemo
 	public class MapPage : ContentPage
     {
         Map _Map;
-
-        public MapPage()
+		double lat, lang;
+		public MapPage(double lat, double lang)
         {
             _Map = new Map()
             {
@@ -19,18 +19,22 @@ namespace XamarinFormsMapsDemo
                 HorizontalOptions = LayoutOptions.FillAndExpand
             };
 
+			this.lat = lat;
+			this.lang = lang;
+			  
            
 
         }
 
         public async Task MakeMap()
         {
+			
 			Pin pin = new Pin () {
-				Position = new Position (51.503, -0.12759),
+				Position = new Position (lat, lang),//51.503, -0.12759),
 				Label = "Some Pin!"
 			};
 
-            
+
 
             _Map.Pins.Clear();
 
