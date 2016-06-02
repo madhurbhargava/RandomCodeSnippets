@@ -6,6 +6,8 @@ x:Class="XamarinFormsMapsDemo.ImagePage">
 	<Image x:Name="SampleImage" Source="sample.jpg" 
 	WidthRequest="200" HeightRequest="200"/>
 	<Button x:Name="MapButton" Text="Launch Map" VerticalOptions="Center" HorizontalOptions="Center"/>
+	<Button x:Name="PhotoButton" Text="Take Photo" VerticalOptions="Center" HorizontalOptions="Center"/>
+	<Button x:Name="GalleryButton" Text="Pick Photo From Gallery" VerticalOptions="Center" HorizontalOptions="Center"/>
 	</StackLayout>
 
 
