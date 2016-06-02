@@ -6,3 +6,4 @@ MapPage - Simple Cross Platfrom Map Page for Xamarin forms, Make Sure to Add App
 This component is a small part of another app which extracts geolocation from Images and then shows those on a Map. The source of that app will be posted soon.
 
 ImagePage - Launcher for Map Page. Reads location data from Image displayed on Page and passes it to the Map Page.
+Added Image Pickup from phone gallery and location extraction via cross platform geolocator api.
