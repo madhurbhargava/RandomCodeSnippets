@@ -7,3 +7,5 @@ This component is a small part of another app which extracts geolocation from Im
 
 ImagePage - Launcher for Map Page. Reads location data from Image displayed on Page and passes it to the Map Page.
 Added Image Pickup from phone gallery and location extraction via cross platform geolocator api.
+
+MapsAppInfo & mapsdemo_video -Demo Video and Information of the App created using MapPage and ImagePage in Xamarin Forms.
