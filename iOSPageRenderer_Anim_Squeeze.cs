@@ -57,10 +57,12 @@ namespace None
 			doFlip();	
 		}
 
+		/// <summary>
+		/// Flip Animation
+		/// </summary>
 		private void doFlip()
 		{
-			//  added flag in app model to control flip for Results view button 
-			//  solves issue where project details button edges above and below call the flip animation.
+			
 			if (SomeCondition) {
 				UIView.BeginAnimations (null);
 				UIView.SetAnimationDuration (0.4);
