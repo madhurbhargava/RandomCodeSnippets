@@ -2,13 +2,11 @@
 //  SomePageRenderer.cs
 //
 //  Author:
-//       Madhur Bhargava <mbhargava@slb.com>
+//       Madhur Bhargava
 //
 using System;
 using Xamarin.Forms.Platform.iOS;
 using Xamarin.Forms;
-using TTM;
-using TTM.iOS;
 using UIKit;
 using CoreGraphics;
 
