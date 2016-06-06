@@ -10,6 +10,9 @@ Added Image Pickup from phone gallery and location extraction via cross platform
 
 The usage of MapPage and ImagePage is shown in this app youtube video: https://youtu.be/IdGaBGYr1tE
 
+Testing of Maps Demo App on vaarious Samsung Galaxy Series Devices(S5, S6, Note 5): https://youtu.be/K1YH6POSCYw
+
+
 MapsAppInfo & mapsdemo_video - Demo Video and Information of the App created using MapPage and ImagePage in Xamarin Forms.
 
 iOSPageRenderer_Anim_Squeeze.cs - A Native Custom Page renderer for Xamarin.Forms Page. It has logic to flip a page(flip animation). Also contains logic for adding icons correctly to the top bar.
