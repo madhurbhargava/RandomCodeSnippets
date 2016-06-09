@@ -16,3 +16,5 @@ Testing of Maps Demo App on vaarious Samsung Galaxy Series Devices(S5, S6, Note 
 MapsAppInfo & mapsdemo_video - Demo Video and Information of the App created using MapPage and ImagePage in Xamarin Forms.
 
 iOSPageRenderer_Anim_Squeeze.cs - A Native Custom Page renderer for Xamarin.Forms Page. It has logic to flip a page(flip animation). Also contains logic for adding icons correctly to the top bar.
+
+VideoPageRenderer - A Video Page Renderer for iOS which renders landscape video on iOS using Xamarin. It uses AVVideoPlayer control on iOS platform to render the video.
