@@ -18,3 +18,5 @@ MapsAppInfo & mapsdemo_video - Demo Video and Information of the App created usi
 iOSPageRenderer_Anim_Squeeze.cs - A Native Custom Page renderer for Xamarin.Forms Page. It has logic to flip a page(flip animation). Also contains logic for adding icons correctly to the top bar.
 
 VideoPageRenderer - A Video Page Renderer for iOS which renders landscape video on iOS using Xamarin. It uses AVVideoPlayer control on iOS platform to render the video.
+
+A Number picker control created as Xamarin Android Renderer. This was created to pick up duration in hours and minutes.
