@@ -20,3 +20,5 @@ iOSPageRenderer_Anim_Squeeze.cs - A Native Custom Page renderer for Xamarin.Form
 VideoPageRenderer - A Video Page Renderer for iOS which renders landscape video on iOS using Xamarin. It uses AVVideoPlayer control on iOS platform to render the video.
 
 CustomPickerView, DurationPicker, DurationPickerRenderer - A Number picker control created as Xamarin Android Renderer. This was created to pick up duration in hours and minutes.
+
+ShprReaderActivity - Code to read GIS shapefiles. Uses this reader library: https://github.com/diwi/diewald_shapeFileReader
