@@ -22,3 +22,5 @@ VideoPageRenderer - A Video Page Renderer for iOS which renders landscape video 
 CustomPickerView, DurationPicker, DurationPickerRenderer - A Number picker control created as Xamarin Android Renderer. This was created to pick up duration in hours and minutes.
 
 ShprReaderActivity - Code to read GIS shapefiles. Uses this reader library: https://github.com/diwi/diewald_shapeFileReader
+
+Utility - A class containing various Utilities, As of now has: Phone Number Validator
